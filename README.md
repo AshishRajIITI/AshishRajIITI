@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AshishRajIITI
 - 👀 I’m interested in projects including web development
-- 🌱 I’m currently learning MERN Stack and DSA
--     
-I’m looking to collaborate with different people
+- 🌱 I’m currently learning MERN Stack and DSA.
 - 📫 How to reach me Email: ashishiiti19@gmail.com
 
 <!---
