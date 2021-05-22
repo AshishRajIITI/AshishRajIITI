@@ -30,7 +30,7 @@
 
 - 🤝 I’m looking for help with [https://github.com/AshishRajIITI/Meme-Generator](https://github.com/AshishRajIITI/Meme-Generator)
 
-- 💬 Ask me about **DSA &&**
+- 💬 Ask me about **IIT-Indore**
 
 - 📫 How to reach me **ashishiiti19@gmail.com**
 
