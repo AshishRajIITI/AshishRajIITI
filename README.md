@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ashish Raj</h1>
-<h3 align="center">Greetings!
-                   <b>If(employer)</b>{
-                      yes, I'm always looking for great opportunities
+<h3 align="center">Greetings from Varanasi, India !!!</h3>
+<h4> <b>If(employer)</b>{
+  <br/>
+                      yes, I'm always looking for great opportunities; <br/>
                    }
-                   <b>else if(want a website)</b>{
-                   ping me! lets discuss !?
+</h4>
+<h4><b>else if(want a website)</b>{
+   <br/>
+                   ping me! lets discuss !? ;
+   <br/>
                    }
-                   <b>else</b>{  
-                   I always like minded people.
+</h4>
+<h4                <b>else</b>{  
+ <br/>
+                   I always love interacting with like minded people ;
+                    <br/>
                    }
-</h3>
+</h4>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishrajiiti&label=Profile%20views&color=0e75b6&style=flat" alt="ashishrajiiti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishrajiiti" alt="ashishrajiiti" /></a> </p>
