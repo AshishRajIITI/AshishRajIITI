@@ -128,7 +128,7 @@
 		</a>
 	</code>  
   <code>
-		<a style="text-decoration: none" href="https://www.instagram.com/akash6815/" target="_blank">
+		<a style="text-decoration: none" href="https://www.instagram.com/ashish_r_19/" target="_blank">
 			<img
 				src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
 				alt="akash6815"
