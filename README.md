@@ -140,31 +140,3 @@
 </p>
 <br />
 
-<h2>
-   <img
-       height="30em"
-		src="https://www.vectorlogo.zone/logos/github/github-tile.svg"
-		alt="github"
-	/>  &nbsp;GitHub
-  </h2>
-  
-<br />
-<p align="center">
-	<img
-       height="180em"
-		src="https://github-readme-stats.vercel.app/api?username=AshishRajIITI&show_icons=true&locale=en&theme=radical&count_private=true"
-		alt="AshishRajIITI"
-	/>
-  <img
-       height="180em"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=AshishRajIITI&show_icons=true&locale=en&layout=compact&theme=radical"
-		alt="AshishRajIITI"
-	/>
-	<img
-		src="https://github-readme-streak-stats.herokuapp.com/?user=AshishRajIITI&theme=tokyonight"
-		alt="AshishRajIITI"
-	/>
-</p>
-
-
-
