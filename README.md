@@ -1,11 +1,11 @@
 
-<h2 align="center"> Hey there! I'm Ashish Raj.</h2>
+<h2 align="center"> Heyy  guyzz! I'm Ashish Raj.</h2>
 
 <br />
 
  ## 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Exploring Data Structures and Algorithms, developing softwares for experience.
+- 🤔 &nbsp; Working on Reactjs, NodeJs, and Typescript based softwares.
 - 🎓 &nbsp; Studying at Indian Institute of Technology, Indore.
 - ✍️ &nbsp; Aspiring to be a Software Engineering.
 
@@ -111,7 +111,7 @@
 		<a style="text-decoration: none" href="https://www.linkedin.com/in/ashish-raj-0714151a8/" target="_blank">
 			<img
 				src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
-				alt="akashg3627"
+				alt="ashish"
 				height="40"
 				width="40"
 			/>
@@ -131,7 +131,7 @@
 		<a style="text-decoration: none" href="https://www.instagram.com/ashish_r_19/" target="_blank">
 			<img
 				src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
-				alt="akash6815"
+				alt="ashish"
 				height="40"
 				width="40"
 			/>
@@ -140,9 +140,5 @@
 </p>
 <br />
 
-[![](https://raw.githubusercontent.com/AshishRajIITI/AshishRajIITI/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/AshishRajIITI/AshishRajIITI/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AshishRajIITI/AshishRajIITI/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/AshishRajIITI/AshishRajIITI/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-
+## 🏆 My GitHub Stats
+![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=AshishRajIITI&show_icons=true&hide_border=true)
