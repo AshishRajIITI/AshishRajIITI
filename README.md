@@ -4,7 +4,7 @@
 <br />
 
  ## 👨🏻‍💻 &nbsp;About Me
-
+-  Learning DJango
 - 🤔 &nbsp; Working on Reactjs, NodeJs, and Typescript based softwares.
 - 🎓 &nbsp; Studying at Indian Institute of Technology, Indore.
 - ✍️ &nbsp; Aspiring to be a Software Engineering.
